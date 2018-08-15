@@ -12,3 +12,11 @@ More on Tensorflow: https://www.tensorflow.org/
 
 More on Tkinter: https://wiki.python.org/moin/TkInter
 
+If you don't need the GUI, this is the right order to execute the scripts in order to get the data, process them and create and save the model:
+
+1. getData.py
+
+2. processData.py
+
+3. train.py
+
